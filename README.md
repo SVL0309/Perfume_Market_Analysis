@@ -62,4 +62,3 @@ The analytical approach taken in this project showcases skills that are highly s
 
 ---
 
-Feel free to make any further adjustments or let me know if there's anything else you'd like to modify!
