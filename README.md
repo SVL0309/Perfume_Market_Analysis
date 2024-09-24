@@ -1,7 +1,5 @@
 # Perfume_Market_Analysis
 
-Here’s the revised project description with the **Real-World Applicability** section included:
-
 ---
 
 ## Project Overview
