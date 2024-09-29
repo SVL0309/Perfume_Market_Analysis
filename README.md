@@ -98,7 +98,7 @@ The analytical approach taken in this project showcases skills that are highly s
 || Report based on Python.pdf | The market analysis report based on Python |
 | SQL | Perfume_market_analysis_SQL.sql | SQL Query - the process of the data analysis|
 | | sql_perfume_check.csv | Cleansed, formatted, and grouped data in Python for use in SQL |
-| SQL\SQL Oucomes | CSV files | SQL Query outcomes|
+| | SQL Oucomes (folder with CSV files) | SQL Query outcomes|
 | Power BI | Perfume_Market_Analysis_Sergii_Lebid_PowerBI.pbix | PowerBI Interactive Dashbord|
 | Tableau | Perfume Market Analysis.twbx | Tableau Packaged Workbook with the data and visualizations |
 || Perfume Market Analysis Tableau Visualisation.pptx | Tableau analysis visualization saved in the format of a PowerPoint presentation|
