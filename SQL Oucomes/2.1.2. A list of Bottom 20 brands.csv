@@ -1,0 +1,21 @@
+brand,total_sold,revenue,AVG_Price,IUR_%,Product_Category
+"Jean couturier",0,0,NULL,NULL,Othercategory
+Snif,0,0,NULL,NULL,Othercategory
+"Giardini Di Toscana",0,0,NULL,NULL,Othercategory
+"Alexandria Fragrances",4,12,3.00,975.00,Indie
+"Hanae Mori",1,15,15.00,500.00,Othercategory
+"love luxe beauty",1,15,15.00,400.00,Othercategory
+Branded,1,17,17.00,1300.00,Othercategory
+"Ulric de Varens",1,22,22.00,4900.00,Othercategory
+"Gloss Moderne",1,28,28.00,NULL,Othercategory
+" CREPE ERASE ",1,29,29.00,1000.00,Othercategory
+"Tru Fragrance",1,29,29.00,NULL,Othercategory
+"The Baron",1,34,34.00,300.00,Indie
+"CHANGE For Women",2,36,18.00,NULL,Othercategory
+PINK,2,44,22.00,250.00,Othercategory
+FLOWER,1,48,48.00,400.00,Othercategory
+"Blue Perfumes",3,48,16.00,NULL,Othercategory
+emper,2,58,29.00,200.00,Othercategory
+"Tiziana Terenzi",5,65,13.00,NULL,Niche
+"AS PHOTOS",2,68,34.00,400.00,Othercategory
+DKNY,5,70,14.00,380.00,Othercategory

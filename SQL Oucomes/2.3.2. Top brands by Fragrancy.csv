@@ -1,0 +1,7 @@
+Fragrancy,Brand,Product_Categoties,Products,AVG_Price,IUR_%,Sales_Units,Sales_USD,Man_Sales_Units,Woman_Sales_Units,Man_Sales_USD,Woman_Sales_USD
+"Eau de Toilette",Versace,Luxury,38,32.11,0.57,115203,3824458,94145,21058,3380105,444353
+Otherproducttype,"Calvin Klein",Massmarket,4,20.25,0.03,56140,1281192,54138,2002,1245156,36036
+"Eau de Parfum","Calvin Klein",Massmarket,15,23.60,0.78,44034,1156189,142,43892,2982,1153207
+Cologne,"Liz Claiborne",Othercategory,4,20.75,2.78,15970,369818,15970,0,369818,0
+"Perfume Oil","2nd To None",Othercategory,1,6.00,0.05,18882,113292,18882,0,113292,0
+"Body Spray","Donna Karan",Othercategory,1,19.00,2.27,441,8379,0,441,0,8379
