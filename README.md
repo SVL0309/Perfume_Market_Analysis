@@ -1,7 +1,6 @@
 # Perfume_Market_Analysis
 
-
----
+![Illustration](back_picrure_perfume.webp)
 
 ## Project Overview
 
