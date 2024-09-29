@@ -74,7 +74,7 @@ In addition to the analyses conducted in Python and SQL, a dashboard was develop
 
 An alternative visualization of the analysis was also created in **Tableau**, showcasing the versatility of the insights derived from the dataset.
 
-![Illustration](market_sales_Tableau_screen.jpg) 
+![Illustration](market_sales_Tableau_screen1.jpg) 
 
 ### Conclusion
 
