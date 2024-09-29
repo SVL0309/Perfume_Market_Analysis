@@ -1,10 +1,6 @@
 # Perfume_Market_Analysis
 
----
-
-Вот полное описание вашего README с добавлением стандартных частей, которые вы обычно используете:
-
----
+![Illustration](back_picrure_perfume.webp)
 
 ## Project Overview
 
