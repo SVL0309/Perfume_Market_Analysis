@@ -94,7 +94,7 @@ The analytical approach taken in this project showcases skills that are highly s
 | Folder | File | Description |
 |-----------------|-----------------|-----------------|
 | Data | ebay_mens_perfume.csv, ebay_womens_perfume.csv | Orgignal datasets from Kigal |
-| Python | | Jupyter notebook - the process of cleaning, transforming, and analyzing the original data with visualizations |
+| Python | Perfume_market_analysis.ipynb | Jupyter notebook - the process of cleaning, transforming, and analyzing the original data with visualizations |
 | PPT | SLEBID_Scoring_Model_Development_June_2024.pptx | Project Presentation in PowerPoint Format [Presentation Slides](https://docs.google.com/presentation/d/178v7TiIdxXEeY77qPhUNx4hxJFgdtN40MWnh_xNDoOU/edit?usp=sharing). |
 
 ### Future Work
