@@ -102,13 +102,7 @@ The analytical approach taken in this project showcases skills that are highly s
 | Power BI | Perfume_Market_Analysis_Sergii_Lebid_PowerBI.pbix | PowerBI Interactive Dashbord|
 | Tableau | Perfume Market Analysis.twbx | Tableau Packaged Workbook with the data and visualizations |
 || Perfume Market Analysis Tableau Visualisation.pptx | Tableau analysis visualization saved in the format of a PowerPoint presentation|
-sql_perfume_check.csv
 
-### Future Work
-
-- Further feature engineering and selection to improve model performance.
-- Exploration of different machine learning algorithms.
-- Implementation of more advanced techniques for handling imbalanced data.
 
 ### Contact
 
