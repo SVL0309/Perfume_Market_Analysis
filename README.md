@@ -12,7 +12,7 @@ The primary goal is to leverage data-driven insights to optimize inventory and p
 
 ### Dataset Overview
 
-The Perfume E-Commerce Dataset 2024 comprises detailed information on perfume listings, including brand, title, type, price, availability, sold quantities, and geographical location. The dataset provides a comprehensive view of current market trends, pricing, and customer preferences.
+The Perfume E-Commerce Dataset 2024 (https://www.kaggle.com/datasets/kanchana1990/perfume-e-commerce-dataset-2024?resource=download&select=ebay_womens_perfume.csv)comprises detailed information on perfume listings, including brand, title, type, price, availability, sold quantities, and geographical location. The dataset provides a comprehensive view of current market trends, pricing, and customer preferences.
 
 ### Data Science Applications
 
@@ -70,11 +70,11 @@ SQL was used for structured data handling, enabling efficient aggregated queries
 
 In addition to the analyses conducted in Python and SQL, a dashboard was developed in **Power BI** for interactive visualization of the findings, providing stakeholders with a clear view of key metrics.
 
-![Illustration](back_picrure_perfume.jpg) ![Illustration](market_sales_PowerBI_screen.jpg)
+![Illustration](market_sales_PowerBI_screen.jpg)
 
 An alternative visualization of the analysis was also created in **Tableau**, showcasing the versatility of the insights derived from the dataset.
 
-![Illustration](market_sales_Tableau_screen.jpg)
+![Illustration](market_sales_Tableau_screen1.jpg) 
 
 ### Conclusion
 
@@ -93,8 +93,8 @@ The analytical approach taken in this project showcases skills that are highly s
 
 | Folder | File | Description |
 |-----------------|-----------------|-----------------|
-| Functions |  | |
-| Python | | Jupyter notebook - the process of cleaning, transforming, and analyzing the original data with visualizations |
+| Data | ebay_mens_perfume.csv, ebay_womens_perfume.csv | Orgignal datasets from Kigal |
+| Python | Perfume_market_analysis.ipynb | Jupyter notebook - the process of cleaning, transforming, and analyzing the original data with visualizations |
 | PPT | SLEBID_Scoring_Model_Development_June_2024.pptx | Project Presentation in PowerPoint Format [Presentation Slides](https://docs.google.com/presentation/d/178v7TiIdxXEeY77qPhUNx4hxJFgdtN40MWnh_xNDoOU/edit?usp=sharing). |
 
 ### Future Work
