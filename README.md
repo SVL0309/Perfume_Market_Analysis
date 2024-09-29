@@ -12,7 +12,7 @@ The primary goal is to leverage data-driven insights to optimize inventory and p
 
 ### Dataset Overview
 
-The Perfume E-Commerce Dataset 2024 (https://www.kaggle.com/datasets/kanchana1990/perfume-e-commerce-dataset-2024?resource=download&select=ebay_womens_perfume.csv)comprises detailed information on perfume listings, including brand, title, type, price, availability, sold quantities, and geographical location. The dataset provides a comprehensive view of current market trends, pricing, and customer preferences.
+The Perfume E-Commerce Dataset 2024 (https://www.kaggle.com/datasets/kanchana1990/perfume-e-commerce-dataset-2024?resource=download&select=ebay_womens_perfume.csv) comprises detailed information on perfume listings, including brand, title, type, price, availability, sold quantities, and geographical location. The dataset provides a comprehensive view of current market trends, pricing, and customer preferences.
 
 ### Data Science Applications
 
@@ -95,7 +95,12 @@ The analytical approach taken in this project showcases skills that are highly s
 |-----------------|-----------------|-----------------|
 | Data | ebay_mens_perfume.csv, ebay_womens_perfume.csv | Orgignal datasets from Kigal |
 | Python | Perfume_market_analysis.ipynb | Jupyter notebook - the process of cleaning, transforming, and analyzing the original data with visualizations |
-| PPT | SLEBID_Scoring_Model_Development_June_2024.pptx | Project Presentation in PowerPoint Format [Presentation Slides](https://docs.google.com/presentation/d/178v7TiIdxXEeY77qPhUNx4hxJFgdtN40MWnh_xNDoOU/edit?usp=sharing). |
+| PDF | Report based on Python.pdf | The market analysis report based on Python |
+| SQL | Perfume_market_analysis_SQL.sql | SQL Query - the process of the data analysis|
+| SQL Oucomes | CSV files | SQL Query outcomes|
+| PowerBI | Perfume_Market_Analysis_Sergii_Lebid_PowerBI.pbix | PowerBI Interactive Dashbord|
+| Tableau | Perfume Market Analysis.twbx | Tableau Packaged Workbook with the data and visualizations |
+| PPT | Perfume Market Analysis Tableau Visualisation.pptx | Tableau analysis visualization saved in the format of a PowerPoint presentation|
 
 ### Future Work
 
