@@ -95,12 +95,14 @@ The analytical approach taken in this project showcases skills that are highly s
 |-----------------|-----------------|-----------------|
 | Data | ebay_mens_perfume.csv, ebay_womens_perfume.csv | Orgignal datasets from Kigal |
 | Python | Perfume_market_analysis.ipynb | Jupyter notebook - the process of cleaning, transforming, and analyzing the original data with visualizations |
-| PDF | Report based on Python.pdf | The market analysis report based on Python |
+|| Report based on Python.pdf | The market analysis report based on Python |
 | SQL | Perfume_market_analysis_SQL.sql | SQL Query - the process of the data analysis|
-| SQL Oucomes | CSV files | SQL Query outcomes|
-| PowerBI | Perfume_Market_Analysis_Sergii_Lebid_PowerBI.pbix | PowerBI Interactive Dashbord|
+| | sql_perfume_check.csv | Cleansed, formatted, and grouped data in Python for use in SQL |
+| SQL\SQL Oucomes | CSV files | SQL Query outcomes|
+| Power BI | Perfume_Market_Analysis_Sergii_Lebid_PowerBI.pbix | PowerBI Interactive Dashbord|
 | Tableau | Perfume Market Analysis.twbx | Tableau Packaged Workbook with the data and visualizations |
-| PPT | Perfume Market Analysis Tableau Visualisation.pptx | Tableau analysis visualization saved in the format of a PowerPoint presentation|
+|| Perfume Market Analysis Tableau Visualisation.pptx | Tableau analysis visualization saved in the format of a PowerPoint presentation|
+sql_perfume_check.csv
 
 ### Future Work
 
