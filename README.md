@@ -68,11 +68,13 @@ SQL was used for structured data handling, enabling efficient aggregated queries
 
 ### Dashboard Development
 
-In addition to the analyses conducted in Python and SQL, a dashboard was developed in Power BI for interactive visualization of the findings, providing stakeholders with a clear view of key metrics. 
-![Illustration](market_sales_PowerBI_screen.jpg)
-An alternative visualization of the analysis was also created in Tableau, showcasing the versatility of the insights derived from the dataset.
+In addition to the analyses conducted in Python and SQL, a dashboard was developed in **Power BI** for interactive visualization of the findings, providing stakeholders with a clear view of key metrics.
 
-![Illustration](back_picrure_perfume.jpg)
+![Illustration](market_sales_PowerBI_screen.jpg)
+
+An alternative visualization of the analysis was also created in **Tableau**, showcasing the versatility of the insights derived from the dataset.
+
+![Illustration](market_sales_Tableau_screen.jpg)
 
 ### Conclusion
 
